@@ -3,8 +3,8 @@
 end
 
 def name(bill)
-  puts bill + "様"
-  puts "今月の請求書でございます"
+  puts bill + "殿"
+  puts "今月の請求書になります"
   puts "また来月も宜しくお願い致します"
 end
 name("yamada")
