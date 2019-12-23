@@ -3,10 +3,10 @@
 end
 
 def name(bill)
-  puts bill + "殿"
+  puts bill + "様"
   puts "今月の請求書になります"
   puts "また来月も宜しくお願い致します"
-  puts "来月1日にまたご連絡致します。"
+  puts "来月もご期待ください"
 end
 name("yamada")
 
