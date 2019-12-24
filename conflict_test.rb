@@ -18,3 +18,15 @@ def charge(bill)
 end
 puts charge(4000)
 puts charge(-10)
+
+puts "------------------------"
+
+users = ["山田","石田","池田",]
+users.each do |u|
+  puts <<~TEXT
+初めまして
+#{u}と申します
+これから宜しくお願いします。\n
+  TEXT
+end
+puts u
