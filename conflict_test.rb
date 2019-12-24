@@ -26,7 +26,7 @@ users.each do |u|
   puts <<~TEXT
 初めまして
 #{u}と申します
-これから宜しくお願いします。\n
+これから宜しくお願い致します。\n
   TEXT
 end
 puts u
